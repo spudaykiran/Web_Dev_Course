@@ -1,0 +1,15 @@
+* {
+    text-align: center;
+    background-color: black;
+  }
+  img {
+    border: 5px solid white;
+  }
+  div {
+    margin: 50px 40px;
+    color: antiquewhite;
+  }
+  div h1 {
+    font-family: "Dancing Script", cursive;
+    font-family: "Libre Baskerville", serif;
+  }
